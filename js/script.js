@@ -22,7 +22,7 @@ $(function() {
         auto: true
     });
 
-        slider3 = new Slider({
+    slider3 = new Slider({
         buttons: '.gallery-3 .button-action',
         // stopBtn: '.gallery-3 .button-action[data-action="stop"]',
         // autoNextBtn: '.gallery-3 .button-action[data-action="next-auto"]',
